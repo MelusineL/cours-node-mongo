@@ -22,3 +22,9 @@ npm init-y
 
 run index.js (j'utilise le port 3001 parce que c'est mon ordinateur de boulot et j'ai déjà un service sur le port 3000)
 <img width="605" alt="image" src="https://user-images.githubusercontent.com/75261201/177287060-312da0ca-5a87-4a2f-b17a-293999aa7afa.png"><img width="469" alt="image" src="https://user-images.githubusercontent.com/75261201/177287059-3a534510-d5e1-4fb0-be7a-6ce14cd11074.png">
+
+Problème d'autorisation admin à l'installation de nodemon > sudo
+<img width="894" alt="image" src="https://user-images.githubusercontent.com/75261201/177294160-c58268c6-a4ce-43ad-8248-6d50c8554cd5.png"><img width="888" alt="image" src="https://user-images.githubusercontent.com/75261201/177294240-3ba95642-2340-476b-92ed-b474035b0a95.png">
+
+Connection basique à MongoDB :
+<img width="894" alt="image" src="https://user-images.githubusercontent.com/75261201/177294047-97a713e9-2aff-4f44-8b58-76a081fe91dc.png">
