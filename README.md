@@ -15,3 +15,10 @@ Find avec récupération de seulement certains champs via MongoSH :
 Find avec récupération des 4 premiers résultats :
 <img width="1439" alt="image" src="https://user-images.githubusercontent.com/75261201/177176489-349e16a8-2fdb-4e01-bdcf-1582f9ded2f3.png">
 
+# Cours du 05/07/2022 :
+
+npm init-y
+<img width="572" alt="image" src="https://user-images.githubusercontent.com/75261201/177282782-f329c578-7fcb-4df1-96c4-78f442c4c3b7.png">
+
+run index.js (j'utilise le port 3001 parce que c'est mon ordinateur de boulot et j'ai déjà un service sur le port 3000)
+<img width="605" alt="image" src="https://user-images.githubusercontent.com/75261201/177287060-312da0ca-5a87-4a2f-b17a-293999aa7afa.png"><img width="469" alt="image" src="https://user-images.githubusercontent.com/75261201/177287059-3a534510-d5e1-4fb0-be7a-6ce14cd11074.png">
