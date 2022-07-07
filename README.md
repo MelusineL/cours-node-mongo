@@ -1,5 +1,6 @@
 # cours-node-mongo
-Repo pour la notation d'assiduité lors du cours NodeJs et MongoDB 
+Repo pour la notation d'assiduité lors du cours NodeJs et MongoDB.
+Ne concerne que les portions de cours avec mise en place des bases, le reste concerne le projet et se trouve sur le repo fournit par Quentin.
 
 # Cours 04/07/2022 :
 
